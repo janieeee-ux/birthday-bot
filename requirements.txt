@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
-gspread==6.0.2
-google-auth==2.27.0
-schedule==1.2.1
+python-telegram-bot==21.3
+gspread==6.1.4
+google-auth==2.32.0
+schedule==1.2.2
